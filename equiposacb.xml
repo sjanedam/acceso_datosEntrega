@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<equipos>
+    <equipo>
+       <nombre>Unicaja</nombre>
+        <ciudad habitantes="578 460">Málaga</ciudad>
+        <colores>Verde, blanco, morado</colores>
+        <ligasconseguidas>1</ligasconseguidas>
+    </equipo>
+    <equipo>
+        <nombre>Valencia basket</nombre>
+         <ciudad habitantes="	789 744 ">Valencia</ciudad>
+         <colores>Naranja y azul</colores>
+         <ligasconseguidas>1</ligasconseguidas>
+     </equipo>
+     <equipo>
+        <nombre>Real Betis</nombre>
+         <ciudad habitantes="684 234">Sevilla</ciudad>
+         <colores>Verde y blanco</colores>
+         <ligasconseguidas>0</ligasconseguidas>
+     </equipo>
+     <equipo>
+        <nombre>Club baloncesto Gran Canaria</nombre>
+         <ciudad habitantes="378 675">Las Palmas de Gran Canaria</ciudad>
+         <colores>Amarillo</colores>
+         <ligasconseguidas>0</ligasconseguidas>
+     </equipo>
+     <equipo>
+        <nombre>Casademont Zaragoza</nombre>
+         <ciudad habitantes="675 301">Zaragoza</ciudad>
+         <colores>Rojo</colores>
+         <ligasconseguidas>0</ligasconseguidas>
+     </equipo>
+     <equipo>
+        <nombre>Básquet Manresa</nombre>
+         <ciudad habitantes="78 192">Manresa</ciudad>
+         <colores>Rojo y blanco</colores>
+         <ligasconseguidas>1</ligasconseguidas>
+     </equipo>
+     <equipo>
+        <nombre>Joventut Badalona</nombre>
+         <ciudad habitantes="223 006">Baladona</ciudad>
+         <colores>Verde</colores>
+         <ligasconseguidas>4</ligasconseguidas>
+     </equipo>
+     <equipo>
+        <nombre>Saski Baskonia</nombre>
+         <ciudad habitantes="253 093">Vitoria</ciudad>
+         <colores>Azul y rojo</colores>
+         <ligasconseguidas>4</ligasconseguidas>
+     </equipo>
+</equipos>

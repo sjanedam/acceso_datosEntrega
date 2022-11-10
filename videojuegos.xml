@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<videojuegos>
+    <videojuego>
+        <dificultad>Fácil</dificultad>
+        <titulo>Mario Kart</titulo>
+        <genero>Carreras</genero>
+    </videojuego>
+    <videojuego>
+        <dificultad>Media</dificultad>
+        <titulo>Valorant</titulo>
+        <genero>Acción, Battle royale</genero>
+    </videojuego>
+    <videojuego>
+        <dificultad>Avanzado</dificultad>
+        <titulo>League of Legends</titulo>
+        <genero>MOBA</genero>
+    </videojuego>
+    <videojuego>
+        <dificultad>Medio</dificultad>
+        <titulo>Fortnite</titulo>
+        <genero>Aventura, Battle royale</genero>
+    </videojuego>
+    <videojuego>
+        <dificultad>Fácil</dificultad>
+        <titulo>Animal crossing</titulo>
+        <genero>Simulación</genero>
+    </videojuego>
+    <videojuego>
+        <dificultad>Avanzado</dificultad>
+        <titulo>Genshin Impact</titulo>
+        <genero>Aventura, Open world</genero>
+    </videojuego>
+    <videojuego>
+        <dificultad>Avanzado</dificultad>
+        <titulo>Honkai Impact 3rd</titulo>
+        <genero>Aventura</genero>
+    </videojuego>
+    <videojuego>
+        <dificultad>Medio</dificultad>
+        <titulo>GTA</titulo>
+        <genero>Acción, Open world</genero>
+    </videojuego>
+</videojuegos>
